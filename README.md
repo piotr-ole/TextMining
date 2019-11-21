@@ -2,14 +2,14 @@
 
 1. Trzeba doinstalować dwa pakiety: wikipedia i Morfeusz
 2. Wikipedia: 
-    pip: https://pypi.org/project/wikipedia/
-    conda: conda install -c conda-forge wikipedia
+- pip: https://pypi.org/project/wikipedia/
+- conda: conda install -c conda-forge wikipedia
 3. Morfeusz:
-    a. Trzeba wejść na stronę: http://morfeusz.sgjp.pl/download/
-    b. Pobrać: Binding dla Pythona (jajko Pythonowe) [odpowiednią wersje do waszego Pythona]
-    c. Uruchomić swoje środowisko (ja robiłem na condzie, ale pewnie tak samo w venv)
-    d. Wejść do katalogu z jajkiem
-    e. Odpalić: easy_install <plik_egg>
+ 1. Trzeba wejść na stronę: http://morfeusz.sgjp.pl/download/
+ 2. Pobrać: Binding dla Pythona (jajko Pythonowe) [odpowiednią wersje do waszego Pythona]
+ 3. Uruchomić swoje środowisko (ja robiłem na condzie, ale pewnie tak samo w venv)
+ 4. Wejść do katalogu z jajkiem
+ 5. Odpalić: easy_install <plik_egg>
 4. Można cieszyć się życiem
 
 Pliki:
